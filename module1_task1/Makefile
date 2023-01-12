@@ -1,5 +1,5 @@
 build:
-	@hugo
+	@hugo --destination ./dist
 clean:
 	@rm -Rf ./dist/*
 post:
