@@ -10,3 +10,5 @@
 * Create a `GitHub Release` using the
 [“softprops/gh-release” GitHub Action](https://github.com/softprops/action-gh-release)
 named `1.0.0` and pointing to the tag `1.0.0`
+
+The work flow is triggered when a tag is push. Then a zip file is created.
