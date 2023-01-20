@@ -1,5 +1,4 @@
-build: ## Builds a website using gohugo on the dist folder
-	check
+build: check		## Builds a website using gohugo on the dist folder
 	hugo
 
 clean:		## Cleans the dist folder
